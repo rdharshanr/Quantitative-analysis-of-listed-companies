@@ -1,0 +1,1 @@
+This repository is dedicated to the quantitative analysis of listed companies.The analyses cover a range of key aspects, including stock price trends, liquidity, financial leverage, profitability, and valuation ratios.
